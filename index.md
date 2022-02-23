@@ -1,6 +1,6 @@
 ---
 layout: homepage.liquid
-title: Horsin' Around
+title: HTML + WebGL demo
 ---
 
 # Welcome to Hollywoo
